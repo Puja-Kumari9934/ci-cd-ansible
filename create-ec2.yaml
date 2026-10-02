@@ -4,8 +4,8 @@
   gather_facts: false
 
   vars:
-    aws_access_key: ${{ secrets.AWS_ACCESS_KEY_ID }} 
-    aws_secret_key: ${{ secrets.AWS_SECRETS_ACCESS_KEY_ID }} 
+    aws_access_key: AKIA3NIFLOYJB7H5ZWMOTQWD 
+    aws_secret_key: zwkjZ/O3lvZLVLyWFO5wVxdcpTvj+7eXivx
     aws_region: us-south-1
 
   tasks:
